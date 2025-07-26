@@ -1,7 +1,8 @@
-# 🛡 BlockSecure - ASP Debuggers
+# 🛡 BlockSecure - ASP Defenders
 
 
-![Banner](https://via.placeholder.com/1200x400/0a0f0d/00ff88?text=BLOCKSECURE+IMMUTABLE+VERIFICATION)
+![WhatsApp Image 2025-07-26 at 14 59 07_42ba4d1c](https://github.com/user-attachments/assets/59814230-ddc1-4d9c-a294-972946afa24b)
+
 
 ## 📌 Overview
 
